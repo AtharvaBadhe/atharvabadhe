@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on data science on real time data<br>🌱 Currently learning Machine Learning and fundamentals of nueral networks<br>🤔 I’m looking for help with machine learning<br>🎓 Studying Artificial Intelligence and Data Science from Mumbai University<br>💬 Ask me about Data Analysis and Visualization<br>📫 How to reach me: [Mail](atharva.r.badhe@gmail.com) & [Linkedin](https://www.linkedin.com/in/atharva-badhe/)<br>📝 I do write articles on data science and also personal blogging
+🔭 I am currently working on data science on real time data<br>🌱 Currently learning Machine Learning and fundamentals of neural networks<br>🤔 I’m looking for help with machine learning<br>🎓 Studying Artificial Intelligence and Data Science from Mumbai University<br>💬 Ask me about Data Analysis and Visualization<br>📫 How to reach me: [Mail](atharva.r.badhe@gmail.com) & [Linkedin](https://www.linkedin.com/in/atharva-badhe/)<br>📝 I do write articles on data science and also personal blogging
 
 
 ## 🌐 Socials:
