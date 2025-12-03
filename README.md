@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I am currently working on data science on real time data<br>🌱 Currently learning Machine Learning and fundamentals of neural networks<br>🤔 I’m looking for help with machine learning<br>🎓 Studying Artificial Intelligence and Data Science from Mumbai University<br>💬 Ask me about Data Analysis and Visualization<br>📫 How to reach me: [Mail](atharva.r.badhe@gmail.com) & [Linkedin](https://www.linkedin.com/in/atharva-badhe/)<br>📝 I do write articles on data science and also personal blogging
+🚀 **About Me**  
+I’m a **Data Scientist & AI Engineer** specializing in **Machine Learning, Applied Analytics, and Real-World AI Solutions**. I work on **end-to-end data science projects**—from raw data collection and feature engineering to model deployment and business-ready dashboards.
+
+💻 I have hands-on experience building:
+- **Machine Learning & Deep Learning models**
+- **Interactive Data Dashboards (Streamlit, Flask)**
+- **Predictive Analytics & Automation Systems**
+- **AI-powered Business Intelligence Solutions**
+
+🧠 My core interests lie in **Applied Machine Learning, Generative AI, and Data-Driven Decision Systems**, with strong domain exposure in **finance, business analytics, and automation**.
+
+🎓 I’m currently pursuing **Artificial Intelligence & Data Science** from **Mumbai University**, while actively delivering **freelance data solutions for real clients**.
+
+🤝 I help startups, founders, and businesses:
+- Turn raw data into **actionable insights**
+- Build **AI-driven products**
+- Automate workflows using **ML & Analytics**
+
+🌐 **Services:**  
+🔗 https://atharvabadhe.com
 
 
 ## 🌐 Socials:
